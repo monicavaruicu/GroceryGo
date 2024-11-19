@@ -1,0 +1,6 @@
+[submodule "GroceryGo-API"]
+	path = GroceryGo-API
+	url = https://github.com/monicavaruicu/GroceryGo-API.git
+[submodule "GroceryGo-Client"]
+	path = GroceryGo-Client
+	url = https://github.com/monicavaruicu/GroceryGo-Client.git
